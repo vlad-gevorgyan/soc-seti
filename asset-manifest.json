@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/soc-seti/static/css/main.d777d9b8.css",
+    "main.js": "/soc-seti/static/js/main.09ad2b35.js",
+    "static/css/672.a4602ded.chunk.css": "/soc-seti/static/css/672.a4602ded.chunk.css",
+    "static/js/672.3efe0360.chunk.js": "/soc-seti/static/js/672.3efe0360.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/soc-seti/static/js/787.28cb0dcd.chunk.js",
+    "static/media/user.png": "/soc-seti/static/media/user.a1158b938d4f9c73d102.png",
+    "static/media/Loading_icon.gif": "/soc-seti/static/media/Loading_icon.1a32f552ee5280e2aef9.gif",
+    "index.html": "/soc-seti/index.html",
+    "main.d777d9b8.css.map": "/soc-seti/static/css/main.d777d9b8.css.map",
+    "main.09ad2b35.js.map": "/soc-seti/static/js/main.09ad2b35.js.map",
+    "672.a4602ded.chunk.css.map": "/soc-seti/static/css/672.a4602ded.chunk.css.map",
+    "672.3efe0360.chunk.js.map": "/soc-seti/static/js/672.3efe0360.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/soc-seti/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d777d9b8.css",
+    "static/js/main.09ad2b35.js"
+  ]
+}
